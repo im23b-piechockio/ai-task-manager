@@ -33,4 +33,4 @@ Schritte zur Umsetzung:
 
 Zielgruppe: Schüler:innen oder junge Erwachsene, die ihre Aufgaben mit Hilfe von AI besser managen möchten.
 
-Name der App (optional): "MindFlow", "TaskAI", "AI ToDo", "BrainTask", etc.
+
